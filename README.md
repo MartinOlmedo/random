@@ -1,0 +1,1 @@
+fichero de lectura del proyecto RANDOM
